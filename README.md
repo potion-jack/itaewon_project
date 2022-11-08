@@ -4,8 +4,9 @@
 ├── final_.ipynb
 ├── preprocessing_metro
 │   ├── Metro_2017_2021.jpg
-│   ├── metro_final.ipynb
-│   └── preprocess_metro_1.ipynb
+│   ├── metro_diff.ipynb
+│   ├── preprocess_metro_1.ipynb
+│   └── preprocess_metro_2.ipynb
 ├── preprocessing_population
 │   ├── population_diff_1.ipynb
 │   └── population_diff_2.ipynb
@@ -18,5 +19,7 @@
     ├── seoul_population_raw
     ├── seoul_pub
     └── seoul_road_raw
+
+9 directories, 10 files
 
 ```
